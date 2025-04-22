@@ -1,4 +1,3 @@
-# Weather_Forecast
 
 ##  Weather Trend Forecasting
 
